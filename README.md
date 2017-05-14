@@ -1,6 +1,6 @@
 # Sensor App
 
-Andoroid app will show all inbuild sensors data.<br>
+Andoroid app will show all inbuilt sensors data.<br>
 User can also see all sensors data throgh charts.
 
 ## Senosrs:
